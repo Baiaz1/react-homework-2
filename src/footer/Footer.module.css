@@ -1,0 +1,23 @@
+
+.main{
+    margin-top: 40px;
+width: 100%;
+    height: 100px;
+  background-color: blueviolet;
+}
+
+.main li{
+    color: white;
+    list-style: none;
+
+}
+
+.main ul{
+    height: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+

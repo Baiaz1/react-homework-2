@@ -1,0 +1,26 @@
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+
+.top{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    margin-right: 200px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}

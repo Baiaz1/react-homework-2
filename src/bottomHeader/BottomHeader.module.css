@@ -1,0 +1,12 @@
+.bottom{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    height: 10px;
+}
+
+.header{
+    width: 100%;
+    background-color: #afafaf;
+    }
